@@ -7,6 +7,10 @@
     <groupId>org.example</groupId>
     <artifactId>Kilobyte</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>pages</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>20</maven.compiler.source>
